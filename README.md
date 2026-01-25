@@ -13,22 +13,6 @@ The pipeline includes **data ingestion** via Python, **relational modeling** in 
 * **Visualization:** Power BI (DAX, Interactive Dashboards)
 * **Database:** MySQL
 
-## 📂 Repository Structure
-```text
-├── data/
-│   ├── Processed/          # Final view used for dashboard (detailed_order_analysis.csv)
-│   └── raw/                # Source data (Olist Kaggle dataset)
-├── sql/
-│   └── ...                 # SQL scripts for schema and table joins
-├── Script/
-│   └── data_digestion.py   # Python script for loading CSVs into MySQL
-├── notebook/
-│   └── eda_analysis.ipynb  # Pandas exploration and cleaning
-├── dashboard/
-│   ├── olist_dashboard.pbix  # The main Power BI file
-│   └── Preview/            # Screenshots for documentation
-└── requirements.txt        # Project dependencies
-
 ## 📊 Key Business Insights
 
 ### 1. Regional Dominance & Logistics
@@ -66,3 +50,19 @@ The pipeline includes **data ingestion** via Python, **relational modeling** in 
 
 ## 📝 Author
 **Abhishek Singh** - *Data Analysis & Visualization*
+
+## 📂 Repository Structure
+```text
+├── data/
+│   ├── Processed/          # Final view used for dashboard (detailed_order_analysis.csv)
+│   └── raw/                # Source data (Olist Kaggle dataset)
+├── sql/
+│   └── ...                 # SQL scripts for schema and table joins
+├── Script/
+│   └── data_digestion.py   # Python script for loading CSVs into MySQL
+├── notebook/
+│   └── eda_analysis.ipynb  # Pandas exploration and cleaning
+├── dashboard/
+│   ├── olist_dashboard.pbix  # The main Power BI file
+│   └── Preview/            # Screenshots for documentation
+└── requirements.txt        # Project dependencies
