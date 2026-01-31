@@ -3,7 +3,7 @@
 ![Power BI Dashboard Preview](dashboard/Preview/Home.png)
 ![Power BI Dashboard Preview](dashboard/Preview/Sales.png)
 ![Power BI Dashboard Preview](dashboard/Preview/Reviews.png)
-![Power BI Dashboard Preview](dashboard/Preview/Logistics.png)
+![Power BI Dashboard Preview](dashboard/Preview/logistics.png)
 
 ## 📌 Project Overview
 This project provides a comprehensive end-to-end analysis of the **Olist E-commerce dataset** (2016–2018). The goal was to identify key drivers of sales performance, analyze logistics efficiency, and pinpoint underperforming product categories.
