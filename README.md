@@ -1,11 +1,11 @@
-# Brazilian E-Commerce Analytics 🇧🇷📦
+# Brazilian E-Commerce Analytics 🇧🇷
 
 ![Power BI Dashboard Preview](dashboard/Preview/Home.png)
 ![Power BI Dashboard Preview](dashboard/Preview/Sales.png)
 ![Power BI Dashboard Preview](dashboard/Preview/Reviews.png)
 ![Power BI Dashboard Preview](dashboard/Preview/logistics.png)
 
-## 📌 Project Overview
+## Project Overview
 This project provides a comprehensive end-to-end analysis of the **Olist E-commerce dataset** (2016–2018). The goal was to identify key drivers of sales performance, analyze logistics efficiency, and pinpoint underperforming product categories.
 
 The pipeline includes **data ingestion** via Python, **relational modeling** in MySQL, **exploratory analysis** in Pandas, and **interactive visualization** in Power BI.
@@ -16,7 +16,7 @@ The pipeline includes **data ingestion** via Python, **relational modeling** in 
 * **Visualization:** Power BI (DAX, Interactive Dashboards)
 * **Database:** MySQL
 
-## 📊 Key Business Insights
+## Key Business Insights
 
 ### 1. Regional Dominance & Logistics
 * **Sao Paulo is the Powerhouse:** The state of Sao Paulo drives the highest sales volume by a significant margin. Specifically, **Sao Paulo city** acts as the central hub for the majority of revenue.
@@ -36,7 +36,7 @@ The pipeline includes **data ingestion** via Python, **relational modeling** in 
     * **2018 Culprit:** Driven by drops in `Home_comfort_2` and related categories.
 * **Recovery Story:** Despite causing the 2016 dip, `Diapers_and_hygiene` has shown a steady recovery in ratings. The data suggests that operational issues were resolved, and the category now shows potential for growth despite its rocky start.
 
-## 🚀 How to Run
+## How to Run
 
 1.  **Database Setup:**
     * Ensure MySQL is running locally.
@@ -51,10 +51,10 @@ The pipeline includes **data ingestion** via Python, **relational modeling** in 
 3.  **Dashboard:**
     * Open `dashboard/olist_dashboard.pbix` in Power BI Desktop to interact with the visual reports.
 
-## 📝 Author
-**Abhishek Singh** - *Data Analysis & Visualization*
+## Author
+**Abhishek Singh** 
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── data/
 │   ├── Processed/          # Final view used for dashboard (detailed_order_analysis.csv)
