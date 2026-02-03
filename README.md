@@ -1,4 +1,4 @@
-# Brazilian E-Commerce Analytics 🇧🇷
+# Brazilian E-Commerce Analytics 
 
 ![Power BI Dashboard Preview](dashboard/Preview/Home.png)
 ![Power BI Dashboard Preview](dashboard/Preview/Sales.png)
@@ -10,7 +10,7 @@ This project provides a comprehensive end-to-end analysis of the **Olist E-comme
 
 The pipeline includes **data ingestion** via Python, **relational modeling** in MySQL, **exploratory analysis** in Pandas, and **interactive visualization** in Power BI.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **ETL & Data Engineering:** Python (MySQL Connector), SQL (Views, Joins)
 * **Data Analysis:** Pandas, NumPy, Matplotlib
 * **Visualization:** Power BI (DAX, Interactive Dashboards)
