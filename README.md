@@ -32,9 +32,9 @@ The pipeline includes **data ingestion** via Python, **relational modeling** in 
 
 ### 3. Customer Satisfaction Trends
 * **The 2016/2018 Dips:** Overall platform ratings dropped below 4 stars in late 2016 and early 2018.
-    * **2016 Culprit:** Driven largely by the `Diapers_and_hygiene` category.
+    * **2016 Culprit:** Driven largely by the `bed_bath_table` category.
     * **2018 Culprit:** Driven by drops in `Home_comfort_2` and related categories.
-* **Recovery Story:** Despite causing the 2016 dip, `Diapers_and_hygiene` has shown a steady recovery in ratings. The data suggests that operational issues were resolved, and the category now shows potential for growth despite its rocky start.
+* **Recovery Story:** Despite causing the 2018 dip, `Diapers_and_hygiene` has shown a steady recovery in ratings. The data suggests that operational issues were resolved, and the category now shows potential for growth despite its rocky start.
 
 ## How to Run
 
