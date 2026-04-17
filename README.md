@@ -51,8 +51,7 @@ The pipeline includes **data ingestion** via Python, **relational modeling** in 
 3.  **Dashboard:**
     * Open `dashboard/olist_dashboard.pbix` in Power BI Desktop to interact with the visual reports.
 
-## Author
-**Abhishek Singh** 
+
 
 ## Repository Structure
 ```text
